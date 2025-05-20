@@ -1,6 +1,6 @@
 # Swivel Accent Chairs
 
-![Swivel Accent Chair](https://your-image-url-here.jpg)
+![Swivel Accent Chair]([https://your-image-url-here.jpg](https://github.com/Swivel-Accent-Chairs/))
 
 ## The Magic of Movement: Why I'm Obsessed With Swivel Chairs
 
